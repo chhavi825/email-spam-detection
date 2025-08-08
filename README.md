@@ -1,4 +1,5 @@
 📧 Email Spam Detection using Machine Learning
+
 This project is a machine learning application that classifies SMS messages as **Spam** or **Ham (not spam)** using Natural Language Processing (NLP) and various classification algorithms.
 
 ---
